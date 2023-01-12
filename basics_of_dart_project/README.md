@@ -23,4 +23,12 @@ print ouputs whatever we want in the debug console
 # Statements and Expression
 
 A Statement is a command given to the computer. All statements in dart terminate with a semi-colon. Besides, all complex statements use curly braces. <br>
-An Expression on the otherhand doesn' do anything
+An Expression on the otherhand does not do something.
+
+# Arithmetic Operations
+1) Add: + <br>
+2) Subtract: - <br>
+3) Multiply: * <br>
+4) Divide: / <br>
+
+
