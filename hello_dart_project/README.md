@@ -1,1 +1,1 @@
-A simple Program that displays hello world to the console
+A simple Program that displays hello world as output
