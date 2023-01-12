@@ -22,5 +22,5 @@ print ouputs whatever we want in the debug console
 
 # Statements and Expression
 
-A Statement is a command given to the computer. All statements in dart terminate with a ";". Besides, all complex statements use curly braces. <br>
+A Statement is a command given to the computer. All statements in dart terminate with a semi-colon. Besides, all complex statements use curly braces. <br>
 An Expression on the otherhand doesn' do anything
