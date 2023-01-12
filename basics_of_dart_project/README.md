@@ -1,6 +1,6 @@
 # Creating and Running a Project in Dart
 
-dart create name_of_project
+dart create name_of_project <br>
 dart bin(run bin)/name_of_project.dart
 
 # Commenting Code
