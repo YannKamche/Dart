@@ -20,6 +20,6 @@ void main(List<String> arguments) {
   print(10.isEven);
   print(10.789.round()); //
 
-  int myInteger = 10;
-  myInteger = 234.23;
+  //int myInteger = 10;
+  //myInteger = 234.23;
 }
