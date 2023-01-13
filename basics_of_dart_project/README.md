@@ -31,4 +31,13 @@ An Expression on the otherhand does not do something.
 3) Multiply: * <br>
 4) Divide: / <br>
 
+# Decimal numbers and Euclidean modulo operation
+ The ~/ operator is called the truncating division operator and the Euclidearn modulo operator is the %symbol.<br>
+
+ # Math functions
+ dart:math is the math library of Dart
+
+
+
+
 
