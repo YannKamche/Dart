@@ -38,6 +38,7 @@ An Expression on the otherhand does not do something.
  dart:math is the math library of Dart
 
  # Variables & Type Safety
+ 
 - Variable declaration <br>
  type name <br>
 - Dart is a type-safe language. That means once you tell Dart what a variable’s type is, you can’t change it later. <br>
