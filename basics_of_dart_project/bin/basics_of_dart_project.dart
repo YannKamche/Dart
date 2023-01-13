@@ -14,4 +14,12 @@ void main(List<String> arguments) {
   print(22 ~/ 7); //truncating Division
 
   print(sqrt(2));
+  print(sin(45 * pi / 180));
+  print(max(10, 23));
+  print(1 / sqrt(2));
+  print(10.isEven);
+  print(10.789.round()); //
+
+  int myInteger = 10;
+  myInteger = 234.23;
 }

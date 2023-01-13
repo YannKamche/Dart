@@ -20,7 +20,7 @@ There are two ways of writing comments in dart, which are: <br>
 print ouputs whatever we want in the debug console 
 <br>
 
-# Statements and Expression
+# Statements & Expression
 
 A Statement is a command given to the computer. All statements in dart terminate with a semi-colon. Besides, all complex statements use curly braces. <br>
 An Expression on the otherhand does not do something.
@@ -31,11 +31,18 @@ An Expression on the otherhand does not do something.
 3) Multiply: * <br>
 4) Divide: / <br>
 
-# Decimal numbers and Euclidean modulo operation
+# Decimal numbers & Euclidean modulo operation
  The ~/ operator is called the truncating division operator and the Euclidearn modulo operator is the %symbol.<br>
 
  # Math functions
  dart:math is the math library of Dart
+
+ # Variables & Type Safety
+- Variable declaration <br>
+ type name <br>
+- Dart is a type-safe language. That means once you tell Dart what a variable’s type is, you can’t change it later. <br>
+- Dart infers
+the type
 
 
 
